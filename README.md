@@ -1,5 +1,4 @@
 # Assignment
-Post_Comment
 first create a database with the name rentmo.
 After that create a table with the name comment.
 code is written in php so you need XAMPP or any other server.
